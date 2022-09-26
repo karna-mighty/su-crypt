@@ -13,8 +13,10 @@ $ git clone https://github.com/karna-mighty/su-crypt
 if you already have python no nead of installing it otherwise go through the down commands 
 
 $ pkg install python3 
+$ sudo su pkg install pip3 
+$ pip3 install colorama
 
-now open the file  and run the main code 
+now open the file  and run the sucrpyt.py 
 
 $ cd su-crypt
-$ python3 maincode.py
+$ python3 sucrypt.py

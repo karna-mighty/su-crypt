@@ -26,7 +26,7 @@ def encrypt():
 
 def decrypt():
     
-    text=input("enter your encrypoted text\n")
+    text=input("enter your encrypted text\n")
     key=input("enter your key \n")
     dec = 0
     for i in key:
